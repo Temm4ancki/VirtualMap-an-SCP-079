@@ -14,7 +14,8 @@ If you want, you can **support me by donating** for pills or something.
 ## What it is
 
 - **Virtual map module**: which is created automatically every time a server starts.
-- **SCP-079 module**: NO GAMEPLAY. Only the map orientation system and basic door opening and closing. I understand you'll be customizing it anyway, so I don't want to waste my energy on something YOU WON'T USE.
+- **SCP-079 module**: NO GAMEPLAY. Only the map orientation system, cameras view and basic door opening and closing. I understand you'll be customizing it anyway, so I don't want to waste my energy on something YOU WON'T USE.
+- MAYBE. **MAYBE**: I'll make some basic gameplay later. We'll see.
 
 ## Setup
 
